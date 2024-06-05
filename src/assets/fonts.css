@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Bricolage';
+    src: url('@/assets/fonts/bricolage/webfonts/BricolageGrotesque-Regular.woff2') format('woff2'),
+    url('@/assets/fonts/bricolage/webfonts/BricolageGrotesque-Regular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Additional weights and styles can be added as needed */
+@font-face {
+    font-family: 'Bricolage';
+    src: url('@/assets/fonts/bricolage/webfonts/BricolageGrotesque-Regular.woff2') format('woff2'),
+    url('@/assets/fonts/bricolage/webfonts/BricolageGrotesque-Regular.woff2') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
